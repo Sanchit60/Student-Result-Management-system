@@ -1,33 +1,72 @@
-# Student-Result-Management-system
-This GitHub repository contains the complete source code and project files for the Student Result Management System. You can clone, contribute, or use it as a reference for your own educational institution's result management system.
-Title: Student Result Management System
+<h1 align="center">Welcome to Result Management System 👋</h1>
+<br>
 
-Description:
-The Student Result Management System is a web-based application developed using PHP, HTML, and CSS. It is designed to streamline the process of managing and viewing student academic results for educational institutions. This brief provides an overview of the project's key features, technologies used, and the project's structure.
+<p>
+  <a href="https://github.com/mayankmohak/Student-Result-Management-System" target="_blank">
+    <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  </a>
+  <img alt="Maintenance" src="https://img.shields.io/badge/Maintained-yes-blue.svg" />
+  <a href="https://github.com/mayankmohak/Student-Result-Management-System/blob/master/LICENSE" target="_blank">
+    <img alt="Licence" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" />
+  </a>
+</p>
 
-Key Features:
+## ❓ What is this project about?
 
-User Authentication: Users (administrators, teachers, and students) can log in securely using their credentials.
+This project is focused on building an online portal of [STUDENT RESULT MANAGEMENT SYSTEM](http://result-board.infinityfreeapp.com/rms/index.php) directed to easier the management work of publishing results.
 
-User Roles: Different user roles with varying access levels:
+## :computer: Project Development:
+  - Backend: [PHP]
+  - Frontend: [HTML, CSS3, JS]
+  - DataBase: [mySQL]
+  - Software: [chrome, XAMPP, sublime]
 
-Administrator: Manage users, courses, and student records.
-Teacher: Enter and update student grades.
-Student: View their own academic results.
-Student Management: Admins can add, edit, and delete student profiles, including personal information and course enrollments.
+## :camera_flash: Screenshots
+* Home
+![Home](./screenshoot/home.jpg)
+  Acknowledgement: [Mayank Mohak](https://github.com/mayankmohak)
+  
+* Admin Panel
+![Admin](./screenshoot/admin.jpg)
 
-Course Management: Admins can define courses, subjects, and their corresponding instructors.
+* About
+![About](./screenshoot/aboutus.jpg)
 
-Technologies Used:
 
-PHP: Server-side scripting language used for backend development.
+* ContactUs
+![CONTACT_US](./screenshoot/contact.jpg)
+  Want to use this project mail us at mayank8199@gmail.com
 
-HTML: Markup language for creating the structure of web pages.
+* Students view page
+![QUERY_RESULT](./screenshoot/viewer.jpg)
 
-CSS: Stylesheets for designing and styling the user interface.
 
-MySQL: Database management system for storing student information, courses, and grades.
+## :lock_with_ink_pen: Login Details for admin 
+  - User name: admin
+  - password: 1234
+  
+## :computer: How to run this Project
+  - Download and Unzip file on your local system copy 'rms' folder.
+  - Put rms folder inside root directory-(C:\xampp\htdocs)
+  
+## :gear: Database Configuration
+  - Open phpmyadmin
+  - Create Database rms
+  - Import database rms.sql (available inside zip package)
+  
+## :clapper: STEPS TO VIEW THE PROJECT:
+  - Open Your browser link - “http://localhost/rms”
+  - User name: admin
+  - password: 1234
+  
+## 🤝 Contributing
+Comments and improvements are more than welcome!
 
-JavaScript: Used for client-side interactivity and validation.
+Feel free to fork and open a pull request.
+>note: please open an issue before making pr as a good practice of open source.
 
-Bootstrap: Front-end framework for responsive web design.
+## 🙌 Show your support
+
+Give a ⭐️ if you liked this work!
+
+<hr>
